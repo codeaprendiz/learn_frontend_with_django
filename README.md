@@ -10,6 +10,9 @@ Learning HTML task by task
 - [task-004 - divs-spans](task-004-divs-spans)
 - [task-005 - image-links](task-005-image-links)
 - [task-006 - assignment-leanrnings-till-now](task-006-assignment-leanrnings-till-now)
+- [task-007 - tables](task-007-tables)
+- [task-008 - forms](task-008-forms)
+ 
 
 
 
