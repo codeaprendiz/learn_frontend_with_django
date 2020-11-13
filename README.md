@@ -12,6 +12,7 @@ Learning HTML task by task
 - [task-006 - assignment-leanrnings-till-now](task-006-assignment-leanrnings-till-now)
 - [task-007 - tables](task-007-tables)
 - [task-008 - forms](task-008-forms)
+- [task-009 - forms-labels](task-009-form-labels)
  
 
 
