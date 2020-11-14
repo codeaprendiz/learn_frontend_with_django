@@ -20,6 +20,9 @@ Learning HTML task by task
 
 - [task-001 - linking-css-modify-tag-properties-h1-li-p-h4](css-html/task-001-linking-css-modify-tag-properties-h1-li-p-h4)
 - [task-002 - body-dev-p-span](css-html/task-002-body-div-p-span)
+- [task-003 - class-id-all-siblings-descendants-attributes](css-html/task-003-class-id-all-siblings-descendants-attributes)
+- [task-004 - specificity-precedence](css-html/task-004-specificity-precedence)
+- [task-005 - learning-till-now-assignment](css-html/task-005-learning-till-now-assignment)
  
 
 
