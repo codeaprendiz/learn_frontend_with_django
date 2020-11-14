@@ -18,7 +18,8 @@ Learning HTML task by task
 
 ## CSS
 
-- [task-001-linking-css-modify-tag-properties-h1-li-p-h4](css-html/task-001-linking-css-modify-tag-properties-h1-li-p-h4)
+- [task-001 - linking-css-modify-tag-properties-h1-li-p-h4](css-html/task-001-linking-css-modify-tag-properties-h1-li-p-h4)
+- [task-002 - body-dev-p-span](css-html/task-002-body-div-p-span)
  
 
 

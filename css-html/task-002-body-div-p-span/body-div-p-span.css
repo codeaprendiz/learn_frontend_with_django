@@ -1,0 +1,21 @@
+body{
+  /*background: gray;*/
+  background: url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat:no-repeat;
+}
+
+div{
+  background: blue;
+  border: orange;
+  border-width: thick; /* 10 px */
+  border-style: dotted;
+
+  }
+
+p{
+  color: yellow;
+}
+span{
+  background: red;
+  color: black;
+}
