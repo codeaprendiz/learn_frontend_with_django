@@ -1,6 +1,8 @@
 # html-css-kitchen
 Learning HTML task by task
 
+Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp)
+
 
 ## HTML
 
@@ -23,6 +25,7 @@ Learning HTML task by task
 - [task-003 - class-id-all-siblings-descendants-attributes](css-html/task-003-class-id-all-siblings-descendants-attributes)
 - [task-004 - specificity-precedence](css-html/task-004-specificity-precedence)
 - [task-005 - learning-till-now-assignment](css-html/task-005-learning-till-now-assignment)
+- [task-006 - fonts](css-html/task-006-fonts)
  
 
 
