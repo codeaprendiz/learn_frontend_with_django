@@ -26,6 +26,7 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-004 - specificity-precedence](css-html/task-004-specificity-precedence)
 - [task-005 - learning-till-now-assignment](css-html/task-005-learning-till-now-assignment)
 - [task-006 - fonts](css-html/task-006-fonts)
+- [task-007 - box-modules-assignment](css-html/task-007-box-models-assignment)
 - [task-008 - spectrum-assignment](css-html/task-008-spectrum-assignment)
  
 
