@@ -28,6 +28,7 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-006 - fonts](css-html/task-006-fonts)
 - [task-007 - box-modules-assignment](css-html/task-007-box-models-assignment)
 - [task-008 - spectrum-assignment](css-html/task-008-spectrum-assignment)
+- [task-009 - login-page-assignment](css-html/task-009-login-page-assignment)
  
 
 
