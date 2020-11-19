@@ -37,4 +37,5 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 [Bootstrap](https://getbootstrap.com)
 
 - [task-001 - buttons](bootstrap/task-001-buttons)
+- [task-002 - forms](bootstrap/task-002-forms)
 
