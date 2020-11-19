@@ -45,5 +45,6 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 ## Javascript
 
-- [task-001 - hello-world]()
+- [task-001 - hello-world](javascript/task-001-hello-world)
+- [task-002 - comments](javascript/task-002-comments)
 
