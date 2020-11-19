@@ -47,4 +47,6 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 - [task-001 - hello-world](javascript/task-001-hello-world)
 - [task-002 - comments](javascript/task-002-comments)
+- [task-003 - data-types](javascript/task-003-data-types)
+- [task-004 - operations-on-datatype](javascript/task-004-operations-on-datatypes)
 
