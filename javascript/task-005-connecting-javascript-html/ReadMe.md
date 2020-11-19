@@ -14,3 +14,8 @@
 ### screen 4
 
 ![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/connecting-js-html-part4.png)
+
+
+### Console logging
+
+![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/connecting-js-html-part5.png)
