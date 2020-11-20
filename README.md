@@ -57,3 +57,8 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-010 - arrays](javascript/task-010-arrays)
 - [task-011 - objects](javascript/task-011-objects)
 
+
+## Document Object Model
+
+- [task-001 - change-color-heading-randomly]
+
