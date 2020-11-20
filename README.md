@@ -53,4 +53,5 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-006 - operators](javascript/task-006-operators)
 - [task-007 - control-flow](javascript/task-007-control-flow)
 - [task-008 - loops](javascript/task-008-loops)
+- [task-009 - functions](javascript/task-009-functions)
 
