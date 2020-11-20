@@ -52,4 +52,5 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-005 - connecting-javascript-html](javascript/task-005-connecting-javascript-html)
 - [task-006 - operators](javascript/task-006-operators)
 - [task-007 - control-flow](javascript/task-007-control-flow)
+- [task-008 - loops](javascript/task-008-loops)
 
