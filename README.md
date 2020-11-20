@@ -55,4 +55,5 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-008 - loops](javascript/task-008-loops)
 - [task-009 - functions](javascript/task-009-functions)
 - [task-010 - arrays](javascript/task-010-arrays)
+- [task-011 - objects](javascript/task-011-objects)
 
