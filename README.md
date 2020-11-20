@@ -79,4 +79,11 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-005 - tuples-sets-booleans](python/task-005-tuples-sets-booleans)
 - [task-006 - control-flow](python/task-006-control-flow)
 - [task-007 - functions](python/task-007-functions)
+- [task-008 - modules-and-packages](python/task-008-modules-and-packages)
+- [task-009 - name-and-main](python/task-009-name-and-main)
+- [task-010 - scope](python/task-010-scope)
+- [task-011 - object-oriented-programming](python/task-011-object-oriented-programming)
+- [task-012 - errors-and-exceptions](python/task-012-errors-and-exceptions)
+- [task-013 - decorators](python/task-013-decorators)
+- [task-014-regular-expressions](python/task-014-regular-expressions)
 
