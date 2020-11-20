@@ -61,4 +61,5 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 ## Document Object Model
 
 - [task-001 - change-color-heading-randomly](document-object-model/task-001-change-color-heading-randomly)
+- [task-002 - two-content-interation](document-object-model/task-002-two-content-interation)
 
