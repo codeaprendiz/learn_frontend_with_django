@@ -70,7 +70,7 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-001 - loading-and-basics](jQuery/task-001-loading-and-basics)
 
 
-### Python
+## Python
 
 - [task-001 - numbers](python/task-001-numbers)
 - [task-002 - strings](python/task-002-strings)
