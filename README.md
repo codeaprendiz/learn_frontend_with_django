@@ -1,5 +1,5 @@
-# html-css-kitchen
-Learning HTML task by task
+# django-essentials-kitchen
+Learning django and essentials task by task
 
 Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp)
 
