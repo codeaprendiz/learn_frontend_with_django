@@ -69,3 +69,14 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 - [task-001 - loading-and-basics](jQuery/task-001-loading-and-basics)
 
+
+### Python
+
+- [task-001 - numbers](python/task-001-numbers)
+- [task-002 - strings](python/task-002-strings)
+- [task-003 - lists](python/task-003-lists)
+- [task-004 - dictionaries](python/task-004-dictionaries)
+- [task-005 - tuples-sets-booleans](python/task-005-tuples-sets-booleans)
+- [task-006 - control-flow](python/task-006-control-flow)
+- [task-007 - functions](python/task-007-functions)
+
