@@ -64,3 +64,8 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 - [task-002 - two-content-interation](document-object-model/task-002-two-content-interation)
 - [task-003 - events](document-object-model/task-003-events)
 
+
+## jQuery
+
+- [task-001 - loading-and-basics](jQuery/task-001-loading-and-basics)
+
