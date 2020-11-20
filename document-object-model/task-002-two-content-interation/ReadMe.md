@@ -1,2 +1,2 @@
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/content-interation.png/content-interation.png)
+![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/content-interation.png)
 
