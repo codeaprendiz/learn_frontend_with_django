@@ -71,6 +71,7 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 [https://jquery.com](https://jquery.com/)
 
 - [task-001 - loading-and-basics](jQuery/task-001-loading-and-basics)
+- [task-002 - events](jQuery/task-002-events)
 
 
 ## Python
