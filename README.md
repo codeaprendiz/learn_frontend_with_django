@@ -67,6 +67,9 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 ## jQuery
 
+[https://code.jquery.com](https://code.jquery.com/)
+[https://jquery.com](https://jquery.com/)
+
 - [task-001 - loading-and-basics](jQuery/task-001-loading-and-basics)
 
 

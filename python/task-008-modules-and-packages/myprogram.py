@@ -3,8 +3,8 @@
 ################
 # Uncomment this and comment everything else to run!
 
-# import mymodule
-# mymodule.func_in_mymodule()
+import mymodule
+mymodule.func_in_mymodule()
 
 ################
 # Example Two:
