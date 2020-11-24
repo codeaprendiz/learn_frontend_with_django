@@ -79,7 +79,6 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 Installing virtual environment on mac [install-virtualenv-and-virtualenvwrapper-on-macos](https://stackoverflow.com/questions/49470367/install-virtualenv-and-virtualenvwrapper-on-macos)
 
-[python3-virtualenv-django-project](https://medium.com/@shishirthedev/install-python3-virtualenv-django-and-start-a-new-porject-on-you-macos-de429ad3fbc0)
 ```bash
 $ pip3 install virtualenv virtualenvwrapper
 $ mkdir testenv; cd testenv;
@@ -109,3 +108,6 @@ $
 - [task-013 - decorators](python/task-013-decorators)
 - [task-014-regular-expressions](python/task-014-regular-expressions)
 
+## Django
+
+[python3-virtualenv-django-project](https://medium.com/@shishirthedev/install-python3-virtualenv-django-and-start-a-new-porject-on-you-macos-de429ad3fbc0)
