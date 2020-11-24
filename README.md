@@ -77,6 +77,23 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 ## Python
 
+Installing virtual environment on mac [install-virtualenv-and-virtualenvwrapper-on-macos](https://stackoverflow.com/questions/49470367/install-virtualenv-and-virtualenvwrapper-on-macos)
+
+[python3-virtualenv-django-project](https://medium.com/@shishirthedev/install-python3-virtualenv-django-and-start-a-new-porject-on-you-macos-de429ad3fbc0)
+```bash
+$ pip3 install virtualenv virtualenvwrapper
+$ mkdir testenv; cd testenv;
+$ virtualenv env_blog -p python3
+$ ls env_blog 
+bin        lib        pyvenv.cfg
+$ source env_blog/bin/activate
+(env_blog) $ 
+$ which python3
+$PWD/env_blog/bin/python3
+$ deactivate
+$
+```
+
 - [task-001 - numbers](python/task-001-numbers)
 - [task-002 - strings](python/task-002-strings)
 - [task-003 - lists](python/task-003-lists)
