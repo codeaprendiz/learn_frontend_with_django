@@ -111,3 +111,6 @@ $
 ## Django
 
 [python3-virtualenv-django-project](https://medium.com/@shishirthedev/install-python3-virtualenv-django-and-start-a-new-porject-on-you-macos-de429ad3fbc0)
+
+- [task-001 - first-project](Django/task-001-first-project)
+- [task-002-first-application](Django/task-002-first-application)
