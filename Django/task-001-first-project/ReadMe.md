@@ -24,3 +24,17 @@ python manage.py runserver
   You should see your first webpage locally hosted on your computer now.
 
 
+### Files you see in the project and their description
+
+- __init__.py
+    - This is a blank Python script that due to its special name let's Python know that this directory 
+      can be treated as a package
+- setting.py
+    - This is where you will store all your project settings
+- urls.py
+    - This is a python script that will store all URL patterns for your project. Basically the different
+      pages of your web application.
+- wsgi.py
+    - This is a Python script that acts as the Web Server Gateway Interface. It will later on help us deploy
+      our web app to production.            
+
