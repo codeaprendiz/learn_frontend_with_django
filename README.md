@@ -77,6 +77,25 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 ## Python
 
+- [task-001 - numbers](python/task-001-numbers)
+- [task-002 - strings](python/task-002-strings)
+- [task-003 - lists](python/task-003-lists)
+- [task-004 - dictionaries](python/task-004-dictionaries)
+- [task-005 - tuples-sets-booleans](python/task-005-tuples-sets-booleans)
+- [task-006 - control-flow](python/task-006-control-flow)
+- [task-007 - functions](python/task-007-functions)
+- [task-008 - modules-and-packages](python/task-008-modules-and-packages)
+- [task-009 - name-and-main](python/task-009-name-and-main)
+- [task-010 - scope](python/task-010-scope)
+- [task-011 - object-oriented-programming](python/task-011-object-oriented-programming)
+- [task-012 - errors-and-exceptions](python/task-012-errors-and-exceptions)
+- [task-013 - decorators](python/task-013-decorators)
+- [task-014-regular-expressions](python/task-014-regular-expressions)
+
+## Django
+
+[python3-virtualenv-django-project](https://medium.com/@shishirthedev/install-python3-virtualenv-django-and-start-a-new-porject-on-you-macos-de429ad3fbc0)
+
 Installing virtual environment on mac [install-virtualenv-and-virtualenvwrapper-on-macos](https://stackoverflow.com/questions/49470367/install-virtualenv-and-virtualenvwrapper-on-macos)
 
 ###  Setting up virtual environment
@@ -108,26 +127,6 @@ pip install django
 - Configure the project to be able to import the python modules
   - [Right-click on project_dir -> Mark Directory as -> Sources Root](https://stackoverflow.com/questions/38342618/pycharm-not-recognizing-django-project-imports-from-my-app-models-import-thing)   
 
-
-
-- [task-001 - numbers](python/task-001-numbers)
-- [task-002 - strings](python/task-002-strings)
-- [task-003 - lists](python/task-003-lists)
-- [task-004 - dictionaries](python/task-004-dictionaries)
-- [task-005 - tuples-sets-booleans](python/task-005-tuples-sets-booleans)
-- [task-006 - control-flow](python/task-006-control-flow)
-- [task-007 - functions](python/task-007-functions)
-- [task-008 - modules-and-packages](python/task-008-modules-and-packages)
-- [task-009 - name-and-main](python/task-009-name-and-main)
-- [task-010 - scope](python/task-010-scope)
-- [task-011 - object-oriented-programming](python/task-011-object-oriented-programming)
-- [task-012 - errors-and-exceptions](python/task-012-errors-and-exceptions)
-- [task-013 - decorators](python/task-013-decorators)
-- [task-014-regular-expressions](python/task-014-regular-expressions)
-
-## Django
-
-[python3-virtualenv-django-project](https://medium.com/@shishirthedev/install-python3-virtualenv-django-and-start-a-new-porject-on-you-macos-de429ad3fbc0)
 
 - [task-001 - first-project](Django/task-001-first-project)
 - [task-002-first-application](Django/task-002-first-application)
