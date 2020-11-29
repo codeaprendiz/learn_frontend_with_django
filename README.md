@@ -127,6 +127,7 @@ pip install django
 - Configure the project to be able to import the python modules
   - [Right-click on project_dir -> Mark Directory as -> Sources Root](https://stackoverflow.com/questions/38342618/pycharm-not-recognizing-django-project-imports-from-my-app-models-import-thing)   
 
+### Task List
 
 - [task-001 - first-project](Django/task-001-first-project)
 - [task-002-first-application](Django/task-002-first-application)
