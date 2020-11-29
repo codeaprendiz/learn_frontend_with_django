@@ -41,3 +41,8 @@ python manage.py runserver
     - This is a Python script that acts as the Web Server Gateway Interface. It will later on help us deploy
       our web app to production.            
 
+
+### pip Dependencies
+```bash
+pip install django
+```

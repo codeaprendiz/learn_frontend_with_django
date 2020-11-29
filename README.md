@@ -79,19 +79,36 @@ Courses referred - [https://www.udemy.com/course/python-and-django-full-stack-we
 
 Installing virtual environment on mac [install-virtualenv-and-virtualenvwrapper-on-macos](https://stackoverflow.com/questions/49470367/install-virtualenv-and-virtualenvwrapper-on-macos)
 
+###  Setting up virtual environment
 ```bash
 $ pip3 install virtualenv virtualenvwrapper
-$ mkdir testenv; cd testenv;
-$ virtualenv env_blog -p python3
-$ ls env_blog 
+$ mkdir Django; cd Django;
+$ virtualenv django-virtual-env -p python3
+$ ls django-virtual-env 
 bin        lib        pyvenv.cfg
-$ source env_blog/bin/activate
-(env_blog) $ 
-$ which python3
+$ source django-virtual-env/bin/activate
+(django-virtual-env) $ 
+(django-virtual-env) $ which python3
 $PWD/env_blog/bin/python3
-$ deactivate
+(django-virtual-env) $ deactivate
 $
 ```
+
+### pip dependencies required
+```bash
+pip install django
+```
+
+### Setting up intellij for your project
+
+- Configure Python interpreter
+  - File -> Project Structure -> SDKs -> + -> Add Python SDK -> Virtual Environment -> Existing Environment
+    -> (Set the interpretter to absolute path) ./django-virtual-env/bin/python
+    
+- Configure the project to be able to import the python modules
+  - [Right-click on project_dir -> Mark Directory as -> Sources Root](https://stackoverflow.com/questions/38342618/pycharm-not-recognizing-django-project-imports-from-my-app-models-import-thing)   
+
+
 
 - [task-001 - numbers](python/task-001-numbers)
 - [task-002 - strings](python/task-002-strings)

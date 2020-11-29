@@ -22,7 +22,7 @@ INSTALLED_APPS = [
 python manage.py runserver
 ```
 
-- Now we will try to add our first view in `views.py`. Add the following content to `views.py`
+- Now we will try to add our first view in `first_app/views.py`. Add the following content to `views.py`
 ```python
 from django.http import HttpResponse
 
@@ -34,6 +34,7 @@ def index(request):
 
 ```python
 from first_app import views
+from django.conf.urls import url
 urlpatterns = [
     url(r'^$',views.index,name='index'),
 ]
@@ -41,6 +42,8 @@ urlpatterns = [
 
 - Now again run the server and visit `http://127.0.0.1:8000/`. You should be able to see the "Hello World!" 
   output.
+  
+![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-task2-hello-world.png)  
 
 ### Files in project and their description
 
