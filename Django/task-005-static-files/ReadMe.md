@@ -40,3 +40,22 @@ STATICFILES_DIRS = [
 
 
 ![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-static-files-part2.png)
+
+- Now let's try to load static css files. Add the following to `static/css/mystyle.css`
+
+```css
+h1{
+  color: red;
+}
+```
+
+- Edit the `index.html` file and add the following
+```html
+<head>
+  <meta charset="utf-8">
+  <title>First App</title>
+  <link rel="stylesheet" href="{% static "css/mystyle.css" %}"/>
+</head>
+```
+
+![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-static-part3.png)
