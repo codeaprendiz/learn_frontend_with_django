@@ -133,3 +133,4 @@ pip install django
 - [task-002-first-application](Django/task-002-first-application)
 - [task-003 - mapping-urls](Django/task-003-mapping-urls)
 - [task-004 - templates](Django/task-004-templates)
+- [task-005 - static-files](Django/task-005-static-files)
