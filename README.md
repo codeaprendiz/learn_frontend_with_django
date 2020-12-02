@@ -140,4 +140,4 @@ pip install Faker
 - [task-008 - models-templates-views-paradigm](Django/task-008-models-templates-views-paradigm)
 - [task-009 - assignment-ProdTwo](Django/task-009-assignment-ProdTwo)
 - [task-010 - form-basics](Django/task-010-form-basics)
-- [task-011 - relative-urls](Django/task-011-relative-urls)
+- [task-011 - relative-urls](Django/task-011-relative-urls-template-inheritence)
