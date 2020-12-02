@@ -116,6 +116,7 @@ $
 ### pip dependencies required
 ```bash
 pip install django
+pip install Faker
 ```
 
 ### Setting up intellij for your project
@@ -135,3 +136,4 @@ pip install django
 - [task-004 - templates](Django/task-004-templates)
 - [task-005 - static-files](Django/task-005-static-files)
 - [task-006 - models](Django/task-006-models)
+- [task-007 - fake-data-population](Django/task-007-fake-data-population)
