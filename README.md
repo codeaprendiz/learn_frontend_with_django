@@ -139,3 +139,4 @@ pip install Faker
 - [task-007 - fake-data-population](Django/task-007-fake-data-population)
 - [task-008 - models-templates-views-paradigm](Django/task-008-models-templates-views-paradigm)
 - [task-009 - assignment-ProdTwo](Django/task-009-assignment-ProdTwo)
+- [task-010 - form-basics](Django/task-010-form-basics)
