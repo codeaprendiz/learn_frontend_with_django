@@ -137,3 +137,4 @@ pip install Faker
 - [task-005 - static-files](Django/task-005-static-files)
 - [task-006 - models](Django/task-006-models)
 - [task-007 - fake-data-population](Django/task-007-fake-data-population)
+- [task-008 - models-templates-views-paradigm](Django/task-008-models-templates-views-paradigm)
