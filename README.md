@@ -117,6 +117,9 @@ $
 ```bash
 pip install django
 pip install Faker
+pip install bcrypt      
+pip install django\[argon2\]
+pip install pillow
 ```
 
 ### Setting up intellij for your project
@@ -142,3 +145,4 @@ pip install Faker
 - [task-010 - form-basics](Django/task-010-form-basics)
 - [task-011 - relative-urls](Django/task-011-relative-urls-template-inheritence)
 - [task-012 - template-filters](Django/task-012-template-filters)
+- [task-013 - login-registration-passwords](Django/task-013-login-registration-passwords)
