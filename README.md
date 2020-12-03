@@ -141,3 +141,4 @@ pip install Faker
 - [task-009 - assignment-ProdTwo](Django/task-009-assignment-ProdTwo)
 - [task-010 - form-basics](Django/task-010-form-basics)
 - [task-011 - relative-urls](Django/task-011-relative-urls-template-inheritence)
+- [task-012 - template-filters](Django/task-012-template-filters)
