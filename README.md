@@ -146,3 +146,4 @@ pip install pillow
 - [task-011 - relative-urls](Django/task-011-relative-urls-template-inheritence)
 - [task-012 - template-filters](Django/task-012-template-filters)
 - [task-013 - login-registration-passwords](Django/task-013-login-registration-passwords)
+- [task-014 - class-based-views](Django/task-014-class-based-views)
