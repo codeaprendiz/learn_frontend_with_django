@@ -1,1 +1,1 @@
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/grids.png)
+![](./../../.images/grids.png)

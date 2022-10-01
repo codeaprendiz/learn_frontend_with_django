@@ -15,7 +15,7 @@ STATICFILES_DIRS = [
 
 - Now run the server again and visit the static file using [http://127.0.0.1:8000/static/images/djangoguitar.jpg](http://127.0.0.1:8000/static/images/djangoguitar.jpg)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-task5-static-files.png)
+![](./../../.images/django-task5-static-files.png)
 
 
 - Now lets try adding this image to html page. Add the following to `templates/first_app/index.html`
@@ -39,7 +39,7 @@ STATICFILES_DIRS = [
 - Now run the server again and check `http://127.0.0.1:8000/`
 
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-static-files-part2.png)
+![](./../../.images/django-static-files-part2.png)
 
 - Now let's try to load static css files. Add the following to `static/css/mystyle.css`
 
@@ -58,4 +58,4 @@ h1{
 </head>
 ```
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-static-part3.png)
+![](./../../.images/django-static-part3.png)

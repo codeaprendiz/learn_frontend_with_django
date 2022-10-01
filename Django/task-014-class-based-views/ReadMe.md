@@ -5,10 +5,10 @@
 
 ![](.README_images/django-class-based-views-part2.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-class-based-views-part3.png)
+![](./../../.images/django-class-based-views-part3.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-class-based-views-part4.png)
+![](./../../.images/django-class-based-views-part4.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-class-based-views-part5.png)
+![](./../../.images/django-class-based-views-part5.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-class-based-views-part6.png)
+![](./../../.images/django-class-based-views-part6.png)

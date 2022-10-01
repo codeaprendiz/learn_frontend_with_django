@@ -25,7 +25,7 @@ python manage.py runserver
 - Now you can go to your browser and visit the following webpage `http//127.0.0.1:8000/`
   You should see your first webpage locally hosted on your computer now.
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-task-1.png)
+![](./../../.images/django-task-1.png)
 
 ### Files you see in the project and their description
 

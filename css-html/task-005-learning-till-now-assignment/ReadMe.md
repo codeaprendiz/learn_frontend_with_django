@@ -1,1 +1,1 @@
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/learnings-1-4-assignment.png)
+![](./../../.images/learnings-1-4-assignment.png)

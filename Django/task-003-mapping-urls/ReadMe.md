@@ -22,4 +22,4 @@ urlpatterns = [
 ```
 
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-task3.png)
+![](./../../.images/django-task3.png)

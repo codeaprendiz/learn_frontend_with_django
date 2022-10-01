@@ -118,7 +118,7 @@ def index(request):
 
 - Run the server again and check
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-model-template-view-paradigm.png)
+![](./../../.images/django-model-template-view-paradigm.png)
 
 - Also edit the mystyle.css file with the following
 ```css
@@ -133,4 +133,4 @@ table, th, td {
 
 - Again restart the server and check
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-model-view-paradigm-part2.png)
+![](./../../.images/django-model-view-paradigm-part2.png)

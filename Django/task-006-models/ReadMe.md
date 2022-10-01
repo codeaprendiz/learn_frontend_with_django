@@ -130,5 +130,5 @@ Superuser created successfully.
 - Now start the server again and visit [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin). 
   Type the username and password you just created for the superuser.
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-admin-interface.png)
+![](./../../.images/django-admin-interface.png)
 

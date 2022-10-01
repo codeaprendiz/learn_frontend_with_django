@@ -43,7 +43,7 @@ urlpatterns = [
 - Now again run the server and visit `http://127.0.0.1:8000/`. You should be able to see the "Hello World!" 
   output.
   
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-task2-hello-world.png)  
+![](./../../.images/django-task2-hello-world.png)  
 
 ### Files in project and their description
 

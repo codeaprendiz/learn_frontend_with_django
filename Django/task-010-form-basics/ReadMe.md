@@ -166,9 +166,9 @@ urlpatterns = [
 - Now run the server and check
 
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-form-basic.png)
+![](./../../.images/django-form-basic.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-form-basic-part0.png)
+![](./../../.images/django-form-basic-part0.png)
 
 - You can see the post method result on the console output
 

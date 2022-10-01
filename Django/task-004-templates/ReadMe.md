@@ -40,4 +40,4 @@ def index(request):
 
 - Run the server again
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-task4.png)
+![](./../../.images/django-task4.png)

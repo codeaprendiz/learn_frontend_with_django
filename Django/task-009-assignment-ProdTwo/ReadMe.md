@@ -281,10 +281,10 @@ Populating Complete
 
 - Now run the server again and see the results
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-assignment-ProTwo.png)
+![](./../../.images/django-assignment-ProTwo.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-assignment-ProTwo-userspage.png)
+![](./../../.images/django-assignment-ProTwo-userspage.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-assignment-ProTwo-adminpage-users.png)
+![](./../../.images/django-assignment-ProTwo-adminpage-users.png)
 
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/django-assignment-ProTwo-adminpage-user-details.png)
+![](./../../.images/django-assignment-ProTwo-adminpage-user-details.png)

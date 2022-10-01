@@ -1,1 +1,1 @@
-![](https://github.com/codeaprendiz/_assets/blob/master/html-css-kitchen/box-modules-assignment.png)
+![](./../../.images/box-modules-assignment.png)
